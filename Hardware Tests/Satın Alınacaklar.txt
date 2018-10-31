@@ -1,0 +1,13 @@
+Sürücü:
+https://www.direnc.net/hcpl3120-20-amp-output-current-igbt-gate-drive-optocoupler
+
+IGBT:
+https://www.direnc.net/ixgh48n60c3d1
+
+Güç Kaynaðý
+https://www.ozdisan.com/power-supplies/acdc-adapter/single-output/SPB-25-15
+https://www.ozdisan.com/power-supplies/acdc-adapter/single-output/SPB-25-05
+
+PWM Generator
+
+
