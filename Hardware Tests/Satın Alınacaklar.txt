@@ -9,5 +9,5 @@ https://www.ozdisan.com/power-supplies/acdc-adapter/single-output/SPB-25-15
 https://www.ozdisan.com/power-supplies/acdc-adapter/single-output/SPB-25-05
 
 PWM Generator
-
+https://www.direnc.net/uc3844-current-mode-pwm-controller
 
